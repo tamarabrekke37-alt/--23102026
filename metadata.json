@@ -1,0 +1,6 @@
+{
+  "name": "سامانه تولید محتوا ایکس",
+  "description": "سامانه هوشمند تولید، بازنویسی، تحلیل لحن و زمان‌بندی محتوا برای پلتفرم ایکس (توییتر) با هوش مصنوعی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
